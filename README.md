@@ -18,3 +18,4 @@ Task 4: Perform LabelEncoding
 Task 5: Split the data into Independent and Dependent sets and perform Feature Scaling
 Task 6: Building Logistic Regression Classifier
 Task 7: Evaluate performance of the model
+#done
