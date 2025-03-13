@@ -153,7 +153,7 @@ Kaggle API (Dataset retrieval)
 Step 1: Clone Repository & Install Dependencies
 
 # Clone the repository
-git clone https://github.com/your-username/breast-cancer-prediction.git
+git clone https://github.com/patelmj04/breast-cancer-prediction.git
 cd breast-cancer-prediction
 
 # Install dependencies
@@ -194,17 +194,13 @@ Deploy the model using Flask / FastAPI as a web application.
 
 Enhance dataset visualization for better interpretability.
 
-Contributors
-
-Your Name (your.email@example.com)
-
 Project Repository: GitHub
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 
 Kaggle for providing the dataset.
 
